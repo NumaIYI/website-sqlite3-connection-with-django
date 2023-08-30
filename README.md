@@ -39,6 +39,7 @@
 
 - ### 8- Thanks for your time.
 
+###### information: When I first designed the story section, I thought it was a movie screen, then it became very cliché, I will change the extension and db names to story as soon as possible.
 ----
 # Visual representation
 > ### Pages
@@ -84,16 +85,17 @@ https://github.com/NumaIYI/website-sqlite3-connection-with-django/assets/1284062
 | Story  | Classic(Page shortcuts) | Selected story page  | Classic(links)  | movies/(int) | 
 | Register  | Classic(Page shortcuts) | Register screen | Classic(links)  | user/register/ | 
 | Login  | Classic(Page shortcuts) | Login screen | Classic(links)  | user/login |
-| Admin  | Admin shortcuts | Login screen than Admin panel | hasn't  | admin |
+| Admin  | Admin shortcuts | Login screen then Admin panel | hasn't  | admin |
 | User  | Admin shortcuts | Users add remove change | hasn't   | admin/auth/user  |
 | Movies(stories) | Admin shortcuts | Stories panel | hasn't   | admin/movie  |
 | Movie change(stories) | Admin shortcuts | stroy add remove change |  hasn't  | admin/movies/movie |
 
 > ## In this project, there is no function table because 5 different software languages are used and there are too many functions.
+----
+# Our diagram like this
+### The admin panel gives an order and changes are made in the database in line with this order and this change is transferred to the website through the db website connection. 
 
-
-
-
+----
 # **My links**
 
 [Proje linki](https://github.com/NumaIYI/website-sqlite3-connection-with-django)
