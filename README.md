@@ -90,3 +90,16 @@ https://github.com/NumaIYI/website-sqlite3-connection-with-django/assets/1284062
 | Movie change(stories) | Admin shortcuts | stroy add remove change |  hasn't  | admin/movies/movie |
 
 > ## In this project, there is no function table because 5 different software languages are used and there are too many functions.
+
+
+
+
+# **My links**
+
+[Proje linki](https://github.com/NumaIYI/website-sqlite3-connection-with-django)
+
+[Linkedin hesabım](https://tr.linkedin.com/in/ahmed-numan-%C3%A7ift%C3%A7i-96305a243 "Linkedin hesabım")
+
+**Mail adresim : numanbey11@gmail.com**
+
+[Instagram](https://www.instagram.com/ahmednuman.ciftci/)
