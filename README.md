@@ -88,7 +88,7 @@ https://github.com/NumaIYI/website-sqlite3-connection-with-django/assets/1284062
 | Admin  | Admin shortcuts | Login screen then Admin panel | hasn't  | admin |
 | User  | Admin shortcuts | Users add remove change | hasn't   | admin/auth/user  |
 | Movies(stories) | Admin shortcuts | Stories panel | hasn't   | admin/movie  |
-| Movie change(stories) | Admin shortcuts | stroy add remove change |  hasn't  | admin/movies/movie |
+| Movie change(stories) | Admin shortcuts | story; add, remove, change |  hasn't  | admin/movies/movie |
 
 > ## In this project, there is no function table because 5 different software languages are used and there are too many functions.
 ----
