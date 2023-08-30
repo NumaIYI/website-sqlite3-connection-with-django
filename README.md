@@ -39,4 +39,32 @@
 - ### 8- Thanks for your time.
 
 ----
-# Visual explanation
+# Visual representation
+> ### Pages
+
+https://github.com/NumaIYI/website-sqlite3-connection-with-django/assets/128406291/ae32b7e8-4232-4e6b-9a4f-c952913b1707
+
+> ### Home Page
+
+https://github.com/NumaIYI/website-sqlite3-connection-with-django/assets/128406291/b296aa86-7bf4-478e-a28e-c7df9129e6ec
+
+> ### Register and after submit
+
+https://github.com/NumaIYI/website-sqlite3-connection-with-django/assets/128406291/4cb306b6-3318-49c0-bdb1-2f3383a6b9ce
+
+> ### Login and after submit
+
+https://github.com/NumaIYI/website-sqlite3-connection-with-django/assets/128406291/1cb01e33-4b97-4776-b98c-cfd4cc3642b3
+
+> ### Logout and after click
+
+https://github.com/NumaIYI/website-sqlite3-connection-with-django/assets/128406291/51625df4-7aa8-4f6b-9f89-d3403df49b33
+
+> ### Admin panel and users
+
+https://github.com/NumaIYI/website-sqlite3-connection-with-django/assets/128406291/ec9a42a6-92c7-4865-ac9a-612e77b45b6a
+
+> ### Stories page and story edit page
+
+https://github.com/NumaIYI/website-sqlite3-connection-with-django/assets/128406291/f817b4d7-0cef-4b8e-9bd6-788355739f76
+> ##### You can see name is movies this is my bad sory.
