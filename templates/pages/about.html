@@ -1,0 +1,74 @@
+{% extends 'layout.html' %}
+{% load static %}
+
+{% block content %}
+    <h1>About Us</h1>
+    <br><br>
+    <div class="container">
+        <div>
+            <h1>Bio Of Our Company</h1>
+            <p class="container">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate pariatur, beatae repellendus inventore assumenda, necessitatibus amet praesentium debitis dolorum accusantium nobis vero! Possimus tempore voluptatibus nemo consequatur nam quam mollitia, quibusdam officiis consectetur! Temporibus excepturi debitis earum optio, alias nam mollitia dolorem cupiditate, suscipit nemo quae commodi porro laboriosam illo?</p>
+        </div>
+        <br><br>
+        <div>
+            <h1>Our Company Purpose</h1>
+            <p class="container">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam aliquam repellendus et repellat libero a delectus rerum. Cumque molestias harum ut assumenda vitae culpa quia deserunt accusamus debitis consectetur earum repellendus rerum illo quasi quo, corrupti sapiente dolore expedita dicta commodi eveniet. Sed cupiditate praesentium libero officiis, rerum ipsam aspernatur quae quidem sit, temporibus amet iusto vel, odio minus ratione.</p>
+        </div>
+            <br><br>
+        <div>
+            <h1>The Word We Inspired</h1>
+            <p class="container">Nobody believes in you
+                You've lost again and again and again
+                The lights are cut off
+                But you're still looking at your dream
+                Reviewing it every day and saying to yourself
+                "It's not over until I win"</p>
+        </div>
+    </div>
+    
+    <div class="container">
+        <h2>Communications</h2>
+
+        <ul>
+            
+            <div class="card my-3 w-25">
+                <img src="{% static 'img/gitnuma.png' %}" class="card-image-top" alt="">   
+                <div class="card-img-overlay">
+                    <button class="btn btn-outline-link btn-primary btn-sm" type="button" onclick="location.href='https://github.com/NumaIYI'">Github</button>
+                </div>  
+            </div>
+       
+
+            <div class="card my-3 w-25">
+                <img src="{% static 'img/gitnuma.png' %}" class="card-image-top" alt="">   
+                <div class="card-img-overlay">
+                    <button class="btn btn-outline-link btn-primary btn-sm" type="button" onclick="location.href='https://tr.linkedin.com/in/ahmed-numan-%C3%A7ift%C3%A7i-96305a243'">Linkedin</button>
+                </div> 
+             </div>  
+
+            <div class="card my-3 w-25">   
+                <img src="{% static 'img/viamail.png' %}" class="card-image-top" alt="">
+                <div class="card-img-overlay">
+                    <button class="btn btn-outline-link btn-primary btn-sm" type="button" onclick="location.href='https://numanbey11@gmail.com'">Email</button>
+                </div>
+            </div>
+
+            <div class="card my-3 w-25">
+                <img src="{% static 'img/insta.png' %}" class="card-image-top" alt="">
+                <div class="card-img-overlay">
+                    <button class="btn btn-outline-link btn-primary btn-sm" type="button" onclick="location.href='https://www.instagram.com/ahmednuman.ciftci/'">Instagram</button>
+                 </div>
+            </div>
+        </ul>
+    </div>
+    <br><br>
+    <br><br>
+    <br><br>
+    <br><br>
+    <br><br>
+    <br><br>
+    
+        
+        
+        
+{% endblock %}
