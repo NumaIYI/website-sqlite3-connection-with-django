@@ -21,11 +21,22 @@
 
 - ### 3- In the file directory we are in, we write `python manage.py runserver` to the terminal. When you copy and paste this address, which will give us the local host and port address, the website will appear.
 
-- ### 4- Now you can surfing on my website. You can register , log in, log out , You can surfing on pages (ex. home, about, stories).
+- ### 4- Now you can surfing on my website. You can register , log in, log out , You can surfing on pages (ex. home, about, stories). You can click my links on footer.
 
 - ### 5- You can login to the admin panel by creating an admin user. So what does this panel do? How do I create an admin user?
-   - #### In the file directory we are in, we write `python manage.py createsuperuser` to the terminal for create admin user. than register.
-   - #### In addition to the website address, we can reach our admin panel login page by typing /admin
-   - #### Enter your admin informations.
-   - #### Now you are in admin panel.
-   - #### You can add users, remove users and change users' authorization. You can add and remove stories and edit their information.
+   - #### A-) In the file directory we are in, we write `python manage.py createsuperuser` to the terminal for create admin user. than register.
+   - #### B-) In addition to the website address, we can reach our admin panel login page by typing /admin
+   - #### C-) Enter your admin informations.
+   - #### D-) Now you are in admin panel.
+   - #### E-) You can add users, remove users and change users' authorization. You can add and remove stories and edit their information.
+   - #### F-) In short, you can manage website and database settings from this screen.
+   - #### G-) Also, when you log in from here and return to the home page, the user will be logged in.
+
+- ### 6- Inside the `static` file there are css, javascript, jquery codes and photos that I use.
+
+- ### 7- Inside the `templates` file there are pages html files.
+
+- ### 8- Thanks for your time.
+
+----
+# Visual explanation
