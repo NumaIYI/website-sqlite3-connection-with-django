@@ -12,3 +12,20 @@
 
 # Follow the steps to run the project 
 > #### If you wish, you can look at the visual explanation in the lower pane.
+
+- ### 1- First we need to install `python` .
+  - if you wish install `sqlite3` browser.
+
+- ### 2- We need to download the necessary libraries. You can do this by typing the following commands in the terminal.
+  - #### `pip install Django` and add extension `jinja` .
+
+- ### 3- In the file directory we are in, we write `python manage.py runserver` to the terminal. When you copy and paste this address, which will give us the local host and port address, the website will appear.
+
+- ### 4- Now you can surfing on my website. You can register , log in, log out , You can surfing on pages (ex. home, about, stories).
+
+- ### 5- You can login to the admin panel by creating an admin user. So what does this panel do? How do I create an admin user?
+   - #### In the file directory we are in, we write `python manage.py createsuperuser` to the terminal for create admin user. than register.
+   - #### In addition to the website address, we can reach our admin panel login page by typing /admin
+   - #### Enter your admin informations.
+   - #### Now you are in admin panel.
+   - #### You can add users, remove users and change users' authorization. You can add and remove stories and edit their information.
