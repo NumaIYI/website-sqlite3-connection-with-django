@@ -84,9 +84,9 @@ https://github.com/NumaIYI/website-sqlite3-connection-with-django/assets/1284062
 | Story  | Classic(Page shortcuts) | Selected story page  | Classic(links)  | movies/(int) | 
 | Register  | Classic(Page shortcuts) | Register screen | Classic(links)  | user/register/ | 
 | Login  | Classic(Page shortcuts) | Login screen | Classic(links)  | user/login |
-| Admin  | Admin(Page shortcuts) | Login screen than Admin panel |   | admin |
-| User  | Admin(Page shortcuts) | Users add remove change |   | admin/auth/user  |
-| Movies(stories) | Admin(Page shortcuts) | Stories panel |   | admin/movie  |
-| Movie change(stories) | Admin(Page shortcuts) | stroy add remove change |   | admin/movies/movie |
+| Admin  | Admin shortcuts | Login screen than Admin panel | hasn't  | admin |
+| User  | Admin shortcuts | Users add remove change | hasn't   | admin/auth/user  |
+| Movies(stories) | Admin shortcuts | Stories panel | hasn't   | admin/movie  |
+| Movie change(stories) | Admin shortcuts | stroy add remove change |  hasn't  | admin/movies/movie |
 
 > ## In this project, there is no function table because 5 different software languages are used and there are too many functions.
