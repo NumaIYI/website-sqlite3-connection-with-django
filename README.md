@@ -29,8 +29,9 @@
    - #### C-) Enter your admin informations.
    - #### D-) Now you are in admin panel.
    - #### E-) You can add users, remove users and change users' authorization. You can add and remove stories and edit their information.
-   - #### F-) In short, you can manage website and database settings from this screen.
-   - #### G-) Also, when you log in from here and return to the home page, the user will be logged in.
+   - #### F-) There is also a filter in the story panel to filter the stories by the time they were added and the name.
+   - #### G-) In short, you can manage website and database settings from this screen.
+   - #### H-) Also, when you log in from here and return to the home page, the user will be logged in.
 
 - ### 6- Inside the `static` file there are css, javascript, jquery codes and photos that I use.
 
@@ -64,7 +65,28 @@ https://github.com/NumaIYI/website-sqlite3-connection-with-django/assets/1284062
 
 https://github.com/NumaIYI/website-sqlite3-connection-with-django/assets/128406291/ec9a42a6-92c7-4865-ac9a-612e77b45b6a
 
-> ### Stories page and story edit page
+> ### Admin Stories page and story edit page
 
 https://github.com/NumaIYI/website-sqlite3-connection-with-django/assets/128406291/f817b4d7-0cef-4b8e-9bd6-788355739f76
 > ##### You can see name is movies this is my bad sory.
+
+
+----
+# Tables
+
+## Pages Table
+
+| Page | Navbar | Body features  | Footer | Extension main/ ... | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | 
+| Home  | Classic(Page shortcuts)  | Searching, Widgets, Highlights, Info | Classic(links) |  | 
+| About  | Classic(Page shortcuts) | About compay ,us and my links  | Classic(links)  | about | 
+| Stories  | Classic(Page shortcuts) | Stories with links  | Classic(links)  | movies | 
+| Story  | Classic(Page shortcuts) | Selected story page  | Classic(links)  | movies/(int) | 
+| Register  | Classic(Page shortcuts) | Register screen | Classic(links)  | user/register/ | 
+| Login  | Classic(Page shortcuts) | Login screen | Classic(links)  | user/login |
+| Admin  | Admin(Page shortcuts) | Login screen than Admin panel |   | admin |
+| User  | Admin(Page shortcuts) | Users add remove change |   | admin/auth/user  |
+| Movies(stories) | Admin(Page shortcuts) | Stories panel |   | admin/movie  |
+| Movie change(stories) | Admin(Page shortcuts) | stroy add remove change |   | admin/movies/movie |
+
+> ## In this project, there is no function table because 5 different software languages are used and there are too many functions.
