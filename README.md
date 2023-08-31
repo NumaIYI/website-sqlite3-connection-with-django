@@ -68,9 +68,14 @@ https://github.com/NumaIYI/website-sqlite3-connection-with-django/assets/1284062
 https://github.com/NumaIYI/website-sqlite3-connection-with-django/assets/128406291/71808ff7-d2ba-4dfc-9d26-2587aabaf438
 
 > ### Admin Stories page and story edit page
-
-https://github.com/NumaIYI/website-sqlite3-connection-with-django/assets/128406291/42e90eb1-e41a-460c-b39f-56d6ebddaf3b
 > ##### You can see name is movies this is my bad sory.
+https://github.com/NumaIYI/website-sqlite3-connection-with-django/assets/128406291/42e90eb1-e41a-460c-b39f-56d6ebddaf3b
+
+
+> ### Example of add Story, You can doing same things for delete and change.
+
+https://github.com/NumaIYI/website-sqlite3-connection-with-django/assets/128406291/4004166e-128f-4791-843c-79d4993763f4
+
 
 
 ----
