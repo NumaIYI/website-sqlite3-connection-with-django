@@ -44,7 +44,8 @@
 # Visual representation
 > ### Pages
 
-https://github.com/NumaIYI/website-sqlite3-connection-with-django/assets/128406291/ae32b7e8-4232-4e6b-9a4f-c952913b1707
+https://github.com/NumaIYI/website-sqlite3-connection-with-django/assets/128406291/45176071-8485-4d58-859d-094b85d7db17
+
 
 > ### Home Page
 
