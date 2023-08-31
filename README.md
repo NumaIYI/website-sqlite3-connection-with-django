@@ -104,10 +104,10 @@ https://github.com/NumaIYI/website-sqlite3-connection-with-django/assets/1284062
 ----
 # **My links**
 
-[Proje linki](https://github.com/NumaIYI/website-sqlite3-connection-with-django)
+[Project link](https://github.com/NumaIYI/website-sqlite3-connection-with-django)
 
-[Linkedin hesabım](https://tr.linkedin.com/in/ahmed-numan-%C3%A7ift%C3%A7i-96305a243 "Linkedin hesabım")
+[Linkedin acoount](https://tr.linkedin.com/in/ahmed-numan-%C3%A7ift%C3%A7i-96305a243 "Linkedin hesabım")
 
-**Mail adresim : numanbey11@gmail.com**
+**Via mail : numanbey11@gmail.com**
 
 [Instagram](https://www.instagram.com/ahmednuman.ciftci/)
